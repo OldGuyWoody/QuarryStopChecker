@@ -1,0 +1,2 @@
+# QuarryStopChecker
+RUST Oxide plugin
